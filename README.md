@@ -4,7 +4,7 @@
 
 I build backend systems, platform automation, and internal tooling. Seven years at WeightWatchers building revenue-critical registration, checkout, and affiliate systems serving millions of users. Also shipped an internal QA automation tool adopted organically by ~200 engineers.
 
-Outside of work I founded [NYC Events & Travel](https://instagram.com/eventsandtravel.nyc) — a local community across 30+ Telegram groups — which turned into a real engineering problem, which turned into an open-source framework.
+Outside of work I founded NYC Events & Travel, a community spanning 30+ Telegram groups. Scaling operations became an engineering problem, which led me to build and open-source a Telegram automation framework.
 
 ---
 
