@@ -20,7 +20,7 @@ npm install telegram-automation-framework
 
 ### [SaaS Automation Framework](https://github.com/anatolyben/anatolyben-SAAS-Automation-Framework)
 
-Production-ready automation platform built with Node.js + PostgreSQL featuring auth, roles, APIs, validation, migrations, Docker, and CI/CD. Used as the foundation for delivering moderation bots and automation services to customers.
+A production-ready Node.js + PostgreSQL foundation for multi-tenant SaaS. Every service starts with auth, roles, APIs, validation, migrations, Docker, and CI/CD already solved. Used as the backbone of ModerationOS.
 
 ---
 
