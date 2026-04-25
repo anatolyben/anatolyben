@@ -1,10 +1,19 @@
 # Anatoly Ben
 
-**Senior Software Engineer** — Node.js · TypeScript · PostgreSQL · Redis · Docker · AWS · NYC
+Backend & Automation Engineer | Founder, NYC Events & Travel
 
 I build backend systems, platform automation, and internal tooling. Seven years at WeightWatchers building revenue-critical registration, checkout, and affiliate systems serving millions of users. Also shipped an internal QA automation tool adopted organically by ~200 engineers.
 
-Outside of work I founded NYC Events & Travel, a community spanning 30+ Telegram groups. Scaling operations became an engineering problem, which led me to build and open-source a Telegram automation framework.
+Outside of work I founded NYC Events & Travel, a community spanning 30+ Telegram groups. Scaling operations became an engineering problem, which led me to build both an internal automation platform and customer-facing SaaS tools.
+
+Open Source
+Telegram Automation Framework
+
+An event-driven, pipeline-based framework for moderation and workflow automation across multiple Telegram groups. Every message flows through configurable stages in a predictable sequence. Supports Bot API and MTProto integrations simultaneously.
+
+SaaS Automation Platform
+
+Production-ready automation platform built with Node.js + PostgreSQL featuring auth, roles, APIs, validation, migrations, Docker, and CI/CD. Used as the foundation for delivering moderation bots and automation services to customers.
 
 ---
 
