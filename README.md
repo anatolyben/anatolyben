@@ -18,10 +18,6 @@ An event-driven, pipeline-based framework for moderation and workflow automation
 npm install telegram-automation-framework
 ```
 
-### [SaaS Automation Framework](https://github.com/anatolyben/anatolyben-SAAS-Automation-Framework)
-
-A production-ready Node.js + PostgreSQL foundation for multi-tenant SaaS. Every service starts with auth, roles, APIs, validation, migrations, Docker, and CI/CD already solved. Used as the backbone of ModerationOS.
-
 ---
 
 ## Stack
