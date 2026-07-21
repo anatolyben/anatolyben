@@ -8,18 +8,6 @@ Outside of work I founded NYC Events & Travel, a community spanning 30+ Telegram
 
 ---
 
-## Open Source
-
-### [Telegram Automation Framework](https://github.com/anatolyben/Telegram-Automation-Framework)
-
-An event-driven, pipeline-based framework for moderation and workflow automation across multiple Telegram groups. Every message flows through a sequence of stages you define — in order, predictably, every time. Runs across Bot API and MTProto simultaneously.
-
-```
-npm install telegram-automation-framework
-```
-
----
-
 ## Stack
 
 **Runtime** — Node.js, TypeScript, Python  
