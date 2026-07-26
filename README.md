@@ -15,15 +15,17 @@ AI-powered infrastructure for community moderation, automation, campaigns, and m
 
 ## Open Source Libraries
 
-### Universal Chat Adapter
-Platform-agnostic messaging SDK with a unified API across messaging platforms.
-
-### Universal Event Parser
-Library for parsing event data from multiple event platforms into a unified format.
-
 ### Open Safety Guard
+High-speed structural LLM classification engine and Express middleware for Trust & Safety AI.
 
 ### Safe Fetch Guard
+SSRF-safe URL validation and bounded, redirect-controlled HTTP fetching for untrusted outbound requests.
+
+### Universal Chat Adapter
+Platform-agnostic messaging layer with a unified API across Telegram, Discord, WhatsApp, Instagram, and other messaging platforms.
+
+### Universal Event Parser
+Framework for parsing event data from platforms such as Partiful, Luma, and Facebook into a unified format.
 
 ---
 
