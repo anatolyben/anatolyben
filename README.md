@@ -13,24 +13,19 @@ Previously, I spent 7 years at WeightWatchers building backend systems supportin
 ### ModerationOS
 AI-powered infrastructure for community moderation, automation, campaigns, and management.
 
-### Universal Chat Adapter
-Platform-agnostic messaging infrastructure with a unified API across Telegram, Discord, WhatsApp, Instagram, and other messaging platforms.
-
 ---
 
 ## Open Source Libraries
 
 ### Universal Chat Adapter
-Unified messaging SDK for building cross-platform messaging applications.
+Platform-agnostic messaging SDK with a unified API across messaging platforms.
 
 ### Universal Event Parser
-Library for extracting structured event data from multiple event platforms.
+Library for parsing event data from multiple event platforms into a unified format.
 
 ### Open Safety Guard
-Security library for validating outbound HTTP requests and protecting against SSRF vulnerabilities.
 
 ### Safe Fetch Guard
-Secure Fetch API wrapper with built-in request validation and network safety controls.
 
 ---
 
