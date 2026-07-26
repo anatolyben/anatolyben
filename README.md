@@ -1,23 +1,23 @@
 # Hi, I'm Anatoly
 
-Building AI infrastructure for communities, events, and intelligent automation.
+I build software and create experiences that bring people together.
 
-I enjoy designing production systems that remove repetitive work through AI, automation, and scalable backend architecture.
+I enjoy designing systems that remove repetitive work through AI, automation, and scalable backend engineering.
 
-Previously, I spent 7 years at WeightWatchers building backend systems supporting millions of users. Today I'm focused on creating open-source infrastructure and SaaS products for modern online communities.
+Previously, I spent 7 years at WeightWatchers building backend systems supporting millions of users. Today I'm building SaaS products and automation systems for communities, messaging platforms, and event organizers.
 
 ---
 
 ## Current Projects
 
 ### ModerationOS
-AI-powered community infrastructure for moderation, automation, campaigns, and community management.
+AI-powered infrastructure for community moderation, automation, campaigns, and management.
 
 ### Universal Chat Adapter
-Platform-agnostic messaging layer connecting Telegram, Discord, WhatsApp, and Instagram through a unified API.
+Unified messaging infrastructure connecting Telegram, Discord, WhatsApp, and Instagram.
 
 ### SSRF Guard
-Secure HTTP request validation and outbound networking library.
+Secure outbound networking library for validating and protecting HTTP requests.
 
 ---
 
@@ -45,14 +45,14 @@ React • Next.js
 
 - AI Agents
 - Backend Engineering
-- Distributed Systems
 - Community Infrastructure
+- Distributed Systems
 - Automation
+- Messaging Platforms
 - Event Technology
-- Open Source
 
 ---
 
 ## Philosophy
 
-> Build software that scales human connection instead of administrative work.
+> Build software that scales human connection, not administrative work.
