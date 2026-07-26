@@ -1,4 +1,4 @@
-# Hi, I'm Anatoly Ben
+# Hi, I'm Anatoly
 
 Building AI infrastructure for communities, events, and intelligent automation.
 
