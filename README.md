@@ -63,4 +63,4 @@ React • Next.js
 
 ## Philosophy
 
-> Build software that removes repetitive work so people can spend more time connecting.
+> Technology should eliminate busywork, not create it.
