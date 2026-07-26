@@ -1,25 +1,64 @@
-# Anatoly Ben
+# Hi, I'm Anatoly Ben
 
-**Backend & Automation Engineer | Founder, NYC Events & Travel**
+Building AI infrastructure for communities, events, and intelligent automation.
 
-I build backend systems, platform automation, and internal tooling. Seven years at WeightWatchers building revenue-critical registration, checkout, and affiliate systems serving millions of users. I also shipped an internal QA automation tool that spread to ~200 engineers entirely by word of mouth — no mandate, just useful.
+I enjoy designing production systems that remove repetitive work through AI, automation, and scalable backend architecture.
 
-Outside of work I founded NYC Events & Travel, a community spanning 30+ Telegram groups with 5,000+ members. Scaling operations became an engineering problem, which led me to build both an internal automation platform and a customer-facing SaaS product.
-
----
-
-## Stack
-
-**Runtime** — Node.js, TypeScript, Python  
-**Backend** — Express.js, REST APIs, event-driven architecture, middleware pipelines  
-**Data** — PostgreSQL, Redis, MongoDB  
-**Infra** — AWS, DigitalOcean, Docker, GitHub Actions, CI/CD  
-**Telegram** — Bot API, MTProto, webhook + polling  
-**Frontend** — React, Next.js  
+Previously, I spent 7 years at WeightWatchers building backend systems supporting millions of users. Today I'm focused on creating open-source infrastructure and SaaS products for modern online communities.
 
 ---
 
-## Currently
+## Current Projects
 
-Open to remote senior backend and platform engineering roles.  
-[LinkedIn](https://linkedin.com/in/anatolyben)
+### ModerationOS
+AI-powered community infrastructure for moderation, automation, campaigns, and community management.
+
+### Universal Chat Adapter
+Platform-agnostic messaging layer connecting Telegram, Discord, WhatsApp, and Instagram through a unified API.
+
+### Universal Event Parser
+Converts event pages from multiple platforms into a standardized event model.
+
+### Open Safety Guard
+Security primitives for autonomous AI agents and workflow automation.
+
+### SSRF Guard
+Secure HTTP request validation and outbound networking library.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+TypeScript • Node.js • Python
+
+**Backend**
+
+Express • REST APIs • Event-driven Architecture • Middleware
+
+**Infrastructure**
+
+PostgreSQL • Redis • Docker • GitHub Actions • DigitalOcean
+
+**Frontend**
+
+React • Next.js
+
+---
+
+## Interests
+
+- AI Agents
+- Backend Engineering
+- Distributed Systems
+- Community Infrastructure
+- Automation
+- Event Technology
+- Open Source
+
+---
+
+## Philosophy
+
+> Build software that scales human connection instead of administrative work.
