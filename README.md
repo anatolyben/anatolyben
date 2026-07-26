@@ -16,12 +16,6 @@ AI-powered community infrastructure for moderation, automation, campaigns, and c
 ### Universal Chat Adapter
 Platform-agnostic messaging layer connecting Telegram, Discord, WhatsApp, and Instagram through a unified API.
 
-### Universal Event Parser
-Converts event pages from multiple platforms into a standardized event model.
-
-### Open Safety Guard
-Security primitives for autonomous AI agents and workflow automation.
-
 ### SSRF Guard
 Secure HTTP request validation and outbound networking library.
 
