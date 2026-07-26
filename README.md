@@ -13,18 +13,18 @@ AI-powered infrastructure for community moderation, automation, campaigns, and m
 
 ---
 
-## Open Source Libraries
+## Open Source
 
-### Open Safety Guard
+### [Open Safety Guard](https://github.com/anatolyben/open-safety-guard)
 High-speed structural LLM classification engine and Express middleware for Trust & Safety AI.
 
-### Safe Fetch Guard
+### [Safe Fetch Guard](https://github.com/anatolyben/safe-fetch-guard)
 SSRF-safe URL validation and bounded, redirect-controlled HTTP fetching for untrusted outbound requests.
 
-### Universal Chat Adapter
+### [Universal Chat Adapter](https://github.com/anatolyben/universal-chat-adapter)
 Platform-agnostic messaging layer with a unified API across Telegram, Discord, WhatsApp, Instagram, and other messaging platforms.
 
-### Universal Event Parser
+### [Universal Event Parser](https://github.com/anatolyben/universal-event-parser)
 Framework for parsing event data from platforms such as Partiful, Luma, and Facebook into a unified format.
 
 ---
