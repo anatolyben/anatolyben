@@ -1,6 +1,6 @@
 # Hi, I'm Anatoly
 
-    I build software that removes repetitive work through AI and automation.
+I build software that removes repetitive work through AI and automation.
 * I design scalable backend systems that power reliable applications.
 * I create open-source libraries for safer, platform-independent automation.
 
