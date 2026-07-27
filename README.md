@@ -1,6 +1,8 @@
 # Hi, I'm Anatoly
 
-I design systems that remove repetitive work through AI, automation, and scalable backend engineering.
+    I build software that removes repetitive work through AI and automation.
+* I design scalable backend systems that power reliable applications.
+* I create open-source libraries for safer, platform-independent automation.
 
 Previously, I spent 7 years at WeightWatchers building backend systems supporting millions of users. Today I'm building SaaS products, developer libraries, and community infrastructure.
 
