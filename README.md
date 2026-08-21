@@ -1,8 +1,12 @@
 # Hi, I'm Anatoly
 
-I build **AI-powered software and infrastructure that eliminates repetitive work.**
+I build **software and experiences that help people connect.**
 
-Currently building **ModerationOS**, infrastructure for community moderation, automation, and management.
+I create AI-powered tools for community moderation, automation, and infrastructure.
+
+I also organize recurring social events like **First Fridays**, focused on creating simple spaces where people can meet, spend time together, and form real connections.
+
+Currently building **ModerationOS**, infrastructure for safer, easier-to-run online communities.
 
 ## Open Source
 
@@ -12,4 +16,4 @@ Currently building **ModerationOS**, infrastructure for community moderation, au
 
 TypeScript · Node.js · Python · PostgreSQL · Redis · Docker · React · Next.js
 
-> Technology should eliminate busywork, not create it.
+> Technology should eliminate busywork so people can spend more time connecting.
