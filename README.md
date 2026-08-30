@@ -8,7 +8,7 @@ Currently building **ModerationOS**, infrastructure for safer, easier-to-run onl
 
 ## Open Source
 
-[Open Safety Guard](https://github.com/anatolyben/open-safety-guard) · [Safe Fetch Guard](https://github.com/anatolyben/safe-fetch-guard) · [Route Surface Guard](https://github.com/anatolyben/route-surface-guard) · [Universal Chat Adapter](https://github.com/anatolyben/universal-chat-adapter) · [Universal Event Parser](https://github.com/anatolyben/universal-event-parser) · [Chat Link Extractor](https://github.com/anatolyben/chat-link-extractor)
+[Open Safety Guard](https://github.com/anatolyben/open-safety-guard) · [Safe Fetch Guard](https://github.com/anatolyben/safe-fetch-guard) · [Route Surface Guard](https://github.com/anatolyben/route-surface-guard) · [Universal Chat Adapter](https://github.com/anatolyben/universal-chat-adapter) · [Chat Link Extractor](https://github.com/anatolyben/chat-link-extractor)
 
 ## Stack
 
