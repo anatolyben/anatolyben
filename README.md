@@ -14,6 +14,12 @@ A small Node.js library for reading Redis Streams through a consumer group with 
 
 A message should only be acknowledged once it has been handled or safely set aside.
 
+### [telegram-bot-test-server](https://github.com/anatolyben/telegram-bot-test-server)
+
+A local, in-memory fake of the Telegram Bot API for testing group bots: members, restrictions, bans, join requests, invite links, buttons and updates by webhook or polling.
+
+A bot should be testable without real accounts, real groups or real Telegram.
+
 ## Stack
 
 TypeScript · Node.js · Python · PostgreSQL · Redis · Docker · React · Next.js
