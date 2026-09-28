@@ -1,4 +1,6 @@
+# Hi, I'm Anatoly
 
+I'm building **ModerationOS**, an AI-powered platform for managing communities, conversations, and content across messaging and social platforms.
 
 ## Open Source
 
