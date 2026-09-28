@@ -22,6 +22,12 @@ A local, in-memory fake of the Telegram Bot API for testing group bots: members,
 
 A bot should be testable without real accounts, real groups or real Telegram.
 
+### [instagram-graph-test-server](https://github.com/anatolyben/instagram-graph-test-server)
+
+A local, in-memory fake of the Instagram Graph API (Instagram Login) for testing comment moderation, private replies, direct messages and publishing, with signed webhooks, token expiry and Meta's error shapes.
+
+An Instagram integration should be testable without real accounts, app review or Meta.
+
 ## Stack
 
 TypeScript · Node.js · Python · PostgreSQL · Redis · Docker · React · Next.js
