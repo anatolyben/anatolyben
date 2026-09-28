@@ -2,8 +2,6 @@
 
 I build **software for communities, automation, and AI-powered systems.**
 
-Currently building **ModerationOS**, infrastructure for safer, easier-to-run online communities.
-
 My work focuses on community moderation, automation, AI systems, and the infrastructure behind products that need to operate reliably in the real world.
 
 ## Open Source
