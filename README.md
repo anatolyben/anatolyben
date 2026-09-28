@@ -14,8 +14,6 @@ A small TypeScript library for putting an explicit authorization boundary betwee
 
 Models and automation can propose actions. They should not grant themselves permission to execute them.
 
-[GitHub](https://github.com/anatolyben/action-boundary) · [Website](https://action-boundary.anatolyb77599.chatgpt.site)
-
 ## Stack
 
 TypeScript · Node.js · Python · PostgreSQL · Redis · Docker · React · Next.js
