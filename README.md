@@ -16,6 +16,12 @@ A local test server for the Instagram Graph API (Instagram Login), for testing c
 
 An Instagram integration should be testable without real accounts, app review or Meta.
 
+### [ibkr-tws-test-server](https://github.com/anatolyben/ibkr-tws-test-server)
+
+A local test server for the Interactive Brokers TWS API, for testing trading programs across stocks, futures, FX, US Treasuries and indices: contract details, historical bars, live and delayed market data, accounts, margin and P&L, and the order lifecycle with brackets, OCA groups and what-if previews.
+
+A trading program should be testable without an IB account, TWS or real orders.
+
 ## Stack
 
 TypeScript · Node.js · Python · PostgreSQL · Redis · Docker · React · Next.js
