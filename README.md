@@ -22,6 +22,12 @@ A local test server for the Interactive Brokers TWS API, for testing trading pro
 
 A trading program should be testable without an IB account, TWS or real orders.
 
+### [whatsapp-cloud-test-server](https://github.com/anatolyben/whatsapp-cloud-test-server)
+
+A local test server for the WhatsApp Business Platform Cloud API: text messages sent from business phone numbers, signed webhooks for incoming messages and delivery statuses, scoped access tokens, the 24-hour customer service window, and the failures Meta documents, including a send accepted after its response was lost.
+
+A WhatsApp integration should be testable without a Meta app, a business account or real phone numbers.
+
 ## Stack
 
 TypeScript · Node.js · Python · PostgreSQL · Redis · Docker · React · Next.js
