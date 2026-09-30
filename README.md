@@ -28,6 +28,12 @@ A local test server for the WhatsApp Business Platform Cloud API: text messages 
 
 A WhatsApp integration should be testable without a Meta app, a business account or real phone numbers.
 
+### [stripe-test-server](https://github.com/anatolyben/stripe-test-server)
+
+A local test server for Stripe Billing, driven by the official stripe SDK: customers, prices, Checkout, subscriptions and schedules, invoices, the customer portal and test clocks, with hosted pages a test can complete, time that renews, retries and cancels, and signed webhooks.
+
+A billing integration should be testable without a Stripe account, network access or waiting for real time to pass.
+
 ## Stack
 
 TypeScript · Node.js · Python · PostgreSQL · Redis · Docker · React · Next.js
