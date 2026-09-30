@@ -6,13 +6,13 @@ I'm building **ModerationOS**, an AI-powered platform for managing communities, 
 
 ### [telegram-bot-test-server](https://github.com/anatolyben/telegram-bot-test-server)
 
-A local test server for the Telegram Bot API, for testing bots: members, restrictions, bans, join requests, invite links, buttons, multiple bots, channels, forum topics, polls, business chats, Telegram Login and updates by webhook or polling.
+A local test server for the Telegram Bot API, for testing bots: members, restrictions, bans, join requests, invite links, buttons, multiple bots, channels, forum topics, polls, business chats, Telegram Login, a GramJS-style client for a user's own account (dialogs, history, folders) and updates by webhook or polling.
 
 A bot should be testable without real accounts, real groups or real Telegram.
 
 ### [instagram-graph-test-server](https://github.com/anatolyben/instagram-graph-test-server)
 
-A local test server for the Instagram Graph API (Instagram Login), for testing comment moderation, private replies, direct messages, mentions and publishing (including carousels), with signed webhooks, token expiry, rate limits and Meta's error shapes.
+A local test server for the Instagram Graph API (Instagram Login), for testing comment moderation, private replies, a professional account's inbox (conversations, history, reply windows), mentions and publishing (including carousels), with signed webhooks, token expiry, rate limits and Meta's error shapes.
 
 An Instagram integration should be testable without real accounts, app review or Meta.
 
