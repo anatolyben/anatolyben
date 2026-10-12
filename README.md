@@ -40,6 +40,11 @@ A local test server for Stripe Billing, driven by the official stripe SDK: custo
 
 A billing integration should be testable without a Stripe account, network access or waiting for real time to pass.
 
+## Gists
+
+- [A lost response does not mean a failed action](https://gist.github.com/anatolyben/3330d4edc912d7b3e9c20f0759a7086c)
+- [Lowercasing doesn't catch lookalike usernames](https://gist.github.com/anatolyben/f326542a92a47fea8db2d2f3419ff25c)
+
 ## Stack
 
 TypeScript · Node.js · Python · PostgreSQL · Redis · Docker · React · Next.js
