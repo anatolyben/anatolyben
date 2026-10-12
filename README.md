@@ -4,6 +4,12 @@ I'm building **[ModerationOS](https://moderationos.com)**, an AI-powered platfor
 
 ## Open Source
 
+### [external-action-ledger](https://github.com/anatolyben/external-action-ledger)
+
+An experimental JavaScript/TypeScript library for applications and workflow engines to record external actions, coordinate workers, and control retries with PostgreSQL storage. Failure simulations cover crashes, stale workers, and lost responses.
+
+A lost response should not cause an external action to be blindly repeated.
+
 ### [telegram-bot-test-server](https://github.com/anatolyben/telegram-bot-test-server)
 
 A local test server for the Telegram Bot API, for testing bots: members, restrictions, bans, join requests, invite links, buttons, multiple bots, channels, forum topics, polls, business chats, Telegram Login, a GramJS-style client for a user's own account (dialogs, history, folders) and updates by webhook or polling.
@@ -37,3 +43,4 @@ A billing integration should be testable without a Stripe account, network acces
 ## Stack
 
 TypeScript · Node.js · Python · PostgreSQL · Redis · Docker · React · Next.js
+
