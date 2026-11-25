@@ -16,6 +16,12 @@ A local test server for the Telegram Bot API, for testing bots: members, restric
 
 A bot should be testable without real accounts, real groups or real Telegram.
 
+### [discord-test-server](https://github.com/anatolyben/discord-test-server)
+
+A local test server for the Discord API (v10 REST, Gateway, OAuth2, interactions and CDN), for testing bots and dashboards: moderation with Discord's permission rules and audit log, reactions, pins, webhooks, threads, voice states, scheduled events, slash commands, buttons and modals, with rate limits, sharding and resume, and injected failures.
+
+A Discord bot should be testable without a real server, a real account or Discord.
+
 ### [instagram-graph-test-server](https://github.com/anatolyben/instagram-graph-test-server)
 
 A local test server for the Instagram Graph API (Instagram Login), for testing comment moderation, private replies, a professional account's inbox (conversations, history, reply windows), mentions and publishing (including carousels), with signed webhooks, token expiry, rate limits and Meta's error shapes.
