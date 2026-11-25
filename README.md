@@ -12,19 +12,19 @@ A lost response should not cause an external action to be blindly repeated.
 
 ### [telegram-bot-test-server](https://github.com/anatolyben/telegram-bot-test-server)
 
-A local test server for the Telegram Bot API, for testing bots: members, restrictions, bans, join requests, invite links, buttons, multiple bots, channels, forum topics, polls, business chats, Telegram Login, a GramJS-style client for a user's own account (dialogs, history, folders) and updates by webhook or polling.
+A local Telegram Bot API server for end-to-end tests: groups, members, restrictions, bans, join requests, invite links, buttons, multiple bots, channels, forum topics, polls, business chats, Telegram Login, a GramJS-style client for a user's own account (dialogs, history, folders) and updates by webhook or polling.
 
 A bot should be testable without real accounts, real groups or real Telegram.
 
 ### [discord-test-server](https://github.com/anatolyben/discord-test-server)
 
-A local test server for the Discord API (v10 REST, Gateway, OAuth2, interactions and CDN), for testing bots and dashboards: moderation with Discord's permission rules and audit log, reactions, pins, webhooks, threads, voice states, scheduled events, slash commands, buttons and modals, with rate limits, sharding and resume, and injected failures.
+A local Discord API server for end-to-end tests (v10 REST, Gateway, OAuth2, interactions and CDN), for bots and dashboards: moderation with Discord's permission rules and audit log, reactions, pins, webhooks, threads, voice states, scheduled events, slash commands, buttons and modals, with rate limits, sharding and resume, and injected failures.
 
 A Discord bot should be testable without a real server, a real account or Discord.
 
 ### [instagram-graph-test-server](https://github.com/anatolyben/instagram-graph-test-server)
 
-A local test server for the Instagram Graph API (Instagram Login), for testing comment moderation, private replies, a professional account's inbox (conversations, history, reply windows), mentions and publishing (including carousels), with signed webhooks, token expiry, rate limits and Meta's error shapes.
+A local Instagram Graph API server for end-to-end tests (Instagram Login): comment moderation, private replies, a professional account's inbox (conversations, history, reply windows), mentions and publishing (including carousels), with signed webhooks, token expiry, rate limits and Meta's error shapes.
 
 An Instagram integration should be testable without real accounts, app review or Meta.
 
@@ -42,7 +42,7 @@ A WhatsApp integration should be testable without a Meta app, a business account
 
 ### [stripe-test-server](https://github.com/anatolyben/stripe-test-server)
 
-A local test server for Stripe Billing, driven by the official stripe SDK: customers, prices, Checkout, subscriptions and schedules, invoices, the customer portal and test clocks, with hosted pages a test can complete, time that renews, retries and cancels, and signed webhooks.
+A local Stripe Billing server for end-to-end tests, driven by the official stripe SDK: customers, prices, Checkout, subscriptions and schedules, invoices, the customer portal and test clocks, with hosted pages a test can complete, time that renews, retries and cancels, and signed webhooks.
 
 A billing integration should be testable without a Stripe account, network access or waiting for real time to pass.
 
